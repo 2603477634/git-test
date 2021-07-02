@@ -9,6 +9,8 @@ public class GitClass {
         System.out.println("host-test");
         System.out.println("master test1");
         System.out.println("host-test1");
+        System.out.println("master test1 pull");
+        System.out.println("host-test1 pull");
 
     }
 }
