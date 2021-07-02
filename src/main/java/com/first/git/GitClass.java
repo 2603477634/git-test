@@ -7,6 +7,8 @@ public class GitClass {
         System.out.println("hello,git2");
         System.out.println("master test");
         System.out.println("host-test");
+        System.out.println("master test1");
+        System.out.println("host-test1");
 
     }
 }
